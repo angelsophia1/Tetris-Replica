@@ -3,6 +3,6 @@
 
 Unity version : 2018.3.8f1
 
-Youtube Demo Link : https://studio.youtube.com/video/JphC8rd-zYc/
+Youtube Demo Link : https://www.youtube.com/watch?v=JphC8rd-zYc
 
 Itch.io WebGL Link : https://hamstersophia.itch.io/tetris-replica
